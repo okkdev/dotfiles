@@ -1,2 +1,7 @@
 # dotfiles
-will upload my dotfiles here as soon as my setup is done... hopefully...
+Very rarely updated dotfiles of my systems :c
+
+## Where?
+There are branches for the different systems.
+
+Currently only macOS.
