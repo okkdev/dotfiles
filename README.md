@@ -1,7 +1,2 @@
-# dotfiles
-Very rarely updated dotfiles of my systems :c
-
-## Where?
-There are branches for the different systems.
-
-Currently only macOS.
+# macOS dotfiles
+This is basically only the script that I use to change my macbook between day and night mode.
